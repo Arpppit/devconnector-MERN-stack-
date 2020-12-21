@@ -106,7 +106,7 @@ const ProfileSchema = new mongoose.Schema({
         instagram:{
             type:String
         },
-        LinkedIn:{
+        linkedin:{
             type:String
         },
     },
